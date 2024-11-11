@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+
+#button {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: large;
+}
+
+img {
+    position: fixed;
+    top: 200px;
+    left: 45.5vw;
+}
